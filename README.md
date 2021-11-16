@@ -1,9 +1,12 @@
-- 👋 Oi, me chamo Lucas Torres
-- 👀 Estou sempre em busca de novos conhecimentos na área da programação.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript, além dos conceitos básicos em Python. Sou um estudante de Ciência da Computação
-e pretendo me formar em 2024.2.
+<div align="center">
+  <a href="https://github.com/LucasMSilva2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMSilva2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMSilva2&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 - 📫 Como me encontrar:
       -Linkedin: https://www.linkedin.com/in/lucas-torres-4781b0214/
      
       -Instagram: https://www.instagram.com/luketa_torres/
+      
       -E-mail: lucastorrao691@gmail.com
